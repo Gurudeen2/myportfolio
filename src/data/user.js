@@ -1,9 +1,11 @@
+import logo from "../assets/img/logo.png"
+
 const INFO = {
 	main: {
 		title: "Reactfolio by Akeem",
 		name: "Fatai Akeem Tolani",
 		email: "akeemtolanifatai@gmail.com",
-		logo: "../logo.png",
+		logo: logo,
 	},
 
 	socials: {

@@ -1,13 +1,12 @@
 {
 	"name": "reactfolio",
 	"version": "1.1.0",
-	"homepage": "https://gurudeen2.github.io/myportfolio/",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
 		"name": "Akeem Tolani Fatai",
-		"email": "akeemtolanifatai@gmail.com",
-		"url": "https://gurudeen2.github.io/myportfolio/"
+		"email": "akeemtolanifatai@gmail.com"
 	},
+	"homepage": "https://gurudeen2.github.io/myportfolio",
 	"license": "MIT",
 	"private": true,
 	"dependencies": {
