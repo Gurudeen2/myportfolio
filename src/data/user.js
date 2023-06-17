@@ -38,7 +38,7 @@ const INFO = {
 			title: "Online Realtor Website With Django",
 			description:
 				"The best real estate websites are polished and human. The agent should be front and center but content should be focussed on helping potential buyers and sellers. They are designed to generate leads but they dont use invasive pop-ups or demand visitors give up an email address to access content. Instead they are calm and available for whenever the visitor is ready to get in touch",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com/Gurudeen2/onlinestore",
 		},
@@ -56,7 +56,7 @@ const INFO = {
 			title: "React Chart",
 			description:
 				"Display data in Bar, Dought, pie chart etc using react",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com/Gurudeen2/reactCHart",
 		},
@@ -65,7 +65,7 @@ const INFO = {
 			title: "Unformated Excel Extractor (Python)",
 			description:
 				"Design to get data from unformated excel documents, reformat it and save into database",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com/Gurudeen2/unformatedexcelextractor",
 		},
@@ -74,7 +74,7 @@ const INFO = {
 			title: "Music Genre Classification",
 			description:
 				"Design to classify music into pop, blues, reggae and other genre using python",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com/Gurudeen2/Music-Genre-Classification",
 		},
@@ -90,7 +90,7 @@ const INFO = {
 			title: "Text OCR",
 			description:
 				"extracting the text of printed format into copied text",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com/Gurudeen2/ocr",
 		},
