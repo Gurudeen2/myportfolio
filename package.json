@@ -1,6 +1,7 @@
 {
 	"name": "reactfolio",
 	"version": "1.1.0",
+	"homepage": "https://gurudeen2.github.io/myportfolio/",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
 		"name": "Tharindu N. Madhusanka",
