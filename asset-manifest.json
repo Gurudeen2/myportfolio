@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.39197426.css",
-    "main.js": "/static/js/main.392f6214.js",
+    "main.js": "/static/js/main.a767bbde.js",
     "static/js/787.512dd3f2.chunk.js": "/static/js/787.512dd3f2.chunk.js",
     "static/media/Fatai+Akeem+Tolani.pdf": "/static/media/Fatai+Akeem+Tolani.78a6280b289303817b8f.pdf",
     "index.html": "/index.html",
     "main.39197426.css.map": "/static/css/main.39197426.css.map",
-    "main.392f6214.js.map": "/static/js/main.392f6214.js.map",
+    "main.a767bbde.js.map": "/static/js/main.a767bbde.js.map",
     "787.512dd3f2.chunk.js.map": "/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39197426.css",
-    "static/js/main.392f6214.js"
+    "static/js/main.a767bbde.js"
   ]
 }
