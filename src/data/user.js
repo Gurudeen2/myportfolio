@@ -1,4 +1,4 @@
-import logo from "../assets/img/logo.png"
+import logo from "../assets/img/logo.png";
 
 const INFO = {
 	main: {
@@ -36,6 +36,14 @@ const INFO = {
 	},
 
 	projects: [
+		{
+			title: "EsusuProps Trade with React",
+			description: "A website to send and buy properties using react ",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://esusuproptradez.netlify.app/",
+		},
+
 		{
 			title: "Online Realtor Website With Django",
 			description:
@@ -86,7 +94,7 @@ const INFO = {
 				"This is developed for an organisation to log members in and out and also to register member",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/Gurudeen2/logbook-react",
+			link: "https://mcanlogbook.netlify.app",
 		},
 		{
 			title: "Text OCR",
