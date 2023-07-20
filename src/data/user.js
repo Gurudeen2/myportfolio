@@ -37,6 +37,14 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Watermark Image",
+			description:
+				"Website to add watermark to images and remove backgorund from images",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://processimage.onrender.com/",
+		},
+		{
 			title: "EsusuProps Trade with React",
 			description: "A website to send and buy properties using react ",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
